@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap');
+.home-page{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    margin: 0px auto;
+    max-width: 1280px;
+}
+.heading{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 108px;
+line-height: 102px;
+}
+.description{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #5A5959;
+max-width: 400px;
+}
+.shop{
+    width: 150px;
+    border: none;
+    height: 41px;
+    background-color: #D01C28;
+    color: #FFFFFF;
+    font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 19px;
+
+  gap: 10px;
+}
+.Category{
+    width: 150px;
+    height: 41px;
+    background-color: transparent;
+    color: gray ;
+    border: 1px solid #000000;
+    font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 19px;
+
+  gap: 10px;
+}
+.btn{
+ display: flex;
+gap: 30px;
+}
+.parashop{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #5A5959;
+}
+.imglogo{
+    display: flex;
+    gap: 10px;
+}
+.shop-on{
+    padding: 0px;
+}
+.content{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+width: 595px;
+height: 613px;
+}
+.img-shoe{
+
+    margin-left: 112px;
+    padding-top: 110px;
+}
+.home-page{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+margin: 0 auto
+}
